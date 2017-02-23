@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ItemManagmentApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="cam_no_prev">No Image</string>
+</resources>
